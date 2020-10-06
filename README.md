@@ -18,7 +18,7 @@
 
 ## Usage
 
-```
+```js
 import React from 'react';
 import { View } from 'react-native'
 import Jdenticon from 'react-native-jdenticon';
@@ -43,7 +43,7 @@ You can add a `config` prop with options provided by Jdenticon's [official docs]
 
 **Sample**
 
-```
+```js
 import React from 'react';
 import { View } from 'react-native'
 import Jdenticon from 'react-native-jdenticon';
